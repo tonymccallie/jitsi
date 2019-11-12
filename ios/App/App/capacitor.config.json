@@ -1,0 +1,8 @@
+{
+  "appId": "net.greyback.jitsi",
+  "appName": "jitsi",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
